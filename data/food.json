@@ -1,0 +1,7 @@
+{
+	"pollo":{"sx":0,"sy":0,"tileW":28,"tileH":28,"frames":1},
+	"carne":{"sx":28,"sy":0,"tileW":28,"tileH":28,"frames":1},
+	"manzana":{"sx":56,"sy":0,"tileW":28,"tileH":28,"frames":1},
+	"sandia":{"sx":84,"sy":0,"tileW":28,"tileH":28,"frames":1},
+	"queso":{"sx":112,"sy":0,"tileW":28,"tileH":28,"frames":1}
+}

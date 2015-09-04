@@ -1,0 +1,6 @@
+{
+	"camel_stand_left":{"sx":0,"sy":0,"tileW":100,"tileH":86,"frames":1},
+	"camel_stand_right":{"sx":100,"sy":0,"tileW":100,"tileH":86,"frames":1},
+	"camel_stand_fez_left":{"sx":200,"sy":0,"tileW":100,"tileH":86,"frames":1},
+	"camel_stand_fez_right":{"sx":300,"sy":0,"tileW":100,"tileH":86,"frames":1}
+}
