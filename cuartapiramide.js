@@ -877,9 +877,9 @@ Q.scene("creditos", function(stage) {
   //Define, capa por capa, la escena de inicio del juego, las animaciones y el botón de JUGAR
   var fondo = stage.insert(new Q.Repeater( { asset: "creditos_fondo.png"} ));
 
-  var texto = stage.insert(new Q.Sprite( { asset: "creditos_texto.png", x: 480, y: 2150 } ), fondo);
+  var texto = stage.insert(new Q.Sprite( { asset: "creditos_texto.png", x: 480, y: 1770 } ), fondo);
     texto.add('tween');
-    texto.animate({ x: texto.p.x, y: -Q.height-300, angle: 0 }, 20, Q.Easing.Linear);
+    texto.animate({ x: texto.p.x, y: -Q.height-150, angle: 0 }, 20, Q.Easing.Linear);
 
   var container = stage.insert(new Q.UI.Container({
     x: Q.width/2, y: (Q.height*5/6)-50, fill: "rgba(0,0,0,0.5)"
